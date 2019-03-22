@@ -1,3 +1,8 @@
+# About This Fork
+
+This fork tracks the hostname of the Vault server you're connecting to with the token
+being stored in the Keychain. It's useful if you have multiple Vault servers you connect to.
+
 # Vault Token Helper for OS X Keychain
 
 This is sample code and a proof-of-concept for creating an external
