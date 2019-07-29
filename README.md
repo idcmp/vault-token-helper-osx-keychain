@@ -1,3 +1,8 @@
+# Alternative
+
+I've seen [this project](https://github.com/joemiller/vault-token-helper) which is pretty similar and
+may be a better alternative for you!
+
 # About This Fork
 
 This fork tracks the hostname of the Vault server you're connecting to with the token
